@@ -1,0 +1,38 @@
+{
+  "name": "arbitragebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.27.2",
+    "@sushiswap/sushiswap": "^0.1.1",
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/sdk-core": "^5.9.0",
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "@uniswap/v3-sdk": "^3.18.1",
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "ethers": "5.4",
+    "fs": "^0.0.1-security",
+    "graphql-request": "^7.1.0",
+    "jsbi": "^4.3.0",
+    "moralis": "^2.27.2",
+    "node-fetch": "^3.3.2",
+    "node-schedule": "^2.1.1",
+    "nodemailer": "^6.9.16",
+    "web3": "^4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.1"
+  },
+  "description": ""
+}

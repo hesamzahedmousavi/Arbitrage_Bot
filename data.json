@@ -1,0 +1,99 @@
+{
+    "data": [
+        {
+            "symbol": "crv",
+            "name": "Curve DAO Token",
+            "token": "0x172370d5Cd63279eFa6d502DAB29171933a610AF"
+        },
+        {
+            "symbol": "matic",
+            "name": "Matic Token",
+            "token": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6"
+        },
+        {
+            "symbol": "1inch",
+            "name": "1INCH Token",
+            "token": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
+        },
+        
+        {
+            "symbol": "Aave",
+            "name": "Aave Token",
+            "token": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
+        },
+        {
+            "symbol": "BAL",
+            "name": "Balancer",
+            "token": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3"
+        },
+        {
+            "symbol": "LINK",
+            "name": "ChainLink Token",
+            "token": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39"
+        },
+        {
+            "symbol": "COMP",
+            "name": "Compound",
+            "token": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c"
+        },
+        {
+            "symbol": "WETH",
+            "name": "Wrapped Ether",
+            "token": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+        },
+        {
+            "symbol": "WBTC",
+            "name": "Wrapped BTC",
+            "token": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+        },
+        {
+            "symbol": "CVC",
+            "name": "Civic",
+            "token": "0x66Dc5A08091d1968e08C16aA5b27BAC8398b02Be"
+        },
+        {
+            "symbol": "GRT",
+            "name": "Graph Token",
+            "token": "0x5fe2B58c013d7601147DcdD68C143A77499f5531"
+        },
+        {
+            "symbol": "MANA",
+            "name": "Decentraland MANA",
+            "token": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+        },
+        {
+            "symbol": "MKR",
+            "name": "Maker",
+            "token": "0x6f7C932e7684666C9fd1d44527765433e01fF61d"
+        },
+        {
+            "symbol": "UNI",
+            "name": "Uniswap",
+            "token": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f"
+        },
+        
+        {
+            "symbol": "XSGD",
+            "name": "XSGD",
+            "token": "0xDC3326e71D45186F113a2F448984CA0e8D201995"
+        },
+        {
+            "symbol": "YFI",
+            "name": "yearn.finance",
+            "token": "0xDA537104D6A5edd53c6fBba9A898708E465260b6"
+        },
+        {
+            "symbol": "ZRO",
+            "name": "LayerZero",
+            "token": "0x6985884C4392D348587B19cb9eAAf157F13271cd"
+        },
+        {
+            "symbol": "ZRX",
+            "name": "0x Protocol Token",
+            "token": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5"
+
+        }
+    ]
+}
+
+
